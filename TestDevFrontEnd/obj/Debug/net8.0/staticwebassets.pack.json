@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\New folder (3)\\TestDevFrontEnd\\wwwroot\\htmlpage.html",
+      "PackagePath": "staticwebassets\\htmlpage.html"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\New folder (3)\\TestDevFrontEnd\\wwwroot\\styles\\styles.css",
+      "PackagePath": "staticwebassets\\styles\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestDevFrontEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TestDevFrontEnd.props",
+      "PackagePath": "build\\TestDevFrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TestDevFrontEnd.props",
+      "PackagePath": "buildMultiTargeting\\TestDevFrontEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TestDevFrontEnd.props",
+      "PackagePath": "buildTransitive\\TestDevFrontEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

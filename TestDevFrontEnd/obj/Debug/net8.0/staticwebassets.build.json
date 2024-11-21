@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "ffs+uSPU/lUOl5YgHjr2JMJm3ODDQkIBel/BJtYxyr0=",
+  "Source": "TestDevFrontEnd",
+  "BasePath": "_content/TestDevFrontEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestDevFrontEnd\\wwwroot",
+      "Source": "TestDevFrontEnd",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\New folder (3)\\TestDevFrontEnd\\wwwroot\\",
+      "BasePath": "_content/TestDevFrontEnd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Computer\\Desktop\\New folder (3)\\TestDevFrontEnd\\wwwroot\\htmlpage.html",
+      "SourceId": "TestDevFrontEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\New folder (3)\\TestDevFrontEnd\\wwwroot\\",
+      "BasePath": "_content/TestDevFrontEnd",
+      "RelativePath": "htmlpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\htmlpage.html"
+    },
+    {
+      "Identity": "C:\\Users\\Computer\\Desktop\\New folder (3)\\TestDevFrontEnd\\wwwroot\\styles\\styles.css",
+      "SourceId": "TestDevFrontEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\New folder (3)\\TestDevFrontEnd\\wwwroot\\",
+      "BasePath": "_content/TestDevFrontEnd",
+      "RelativePath": "styles/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\styles.css"
+    }
+  ]
+}

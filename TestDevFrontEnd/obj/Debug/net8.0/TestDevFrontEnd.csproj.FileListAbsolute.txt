@@ -1,0 +1,78 @@
+C:\Users\Computer\source\repos\TestDevFrontEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Computer\source\repos\TestDevFrontEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\Computer\source\repos\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.exe
+C:\Users\Computer\source\repos\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.deps.json
+C:\Users\Computer\source\repos\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.runtimeconfig.json
+C:\Users\Computer\source\repos\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.dll
+C:\Users\Computer\source\repos\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.pdb
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.AssemblyInfo.cs
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.TestDevFrontEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.TestDevFrontEnd.props
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestDevFrontEnd.props
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestDevFrontEnd.props
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\scopedcss\bundle\TestDevFrontEnd.styles.css
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.dll
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\refint\TestDevFrontEnd.dll
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.pdb
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.genruntimeconfig.cache
+C:\Users\Computer\source\repos\TestDevFrontEnd\obj\Debug\net8.0\ref\TestDevFrontEnd.dll
+C:\Users\Computer\source\repos\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.exe
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.deps.json
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.runtimeconfig.json
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.dll
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.pdb
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.TestDevFrontEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.TestDevFrontEnd.props
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestDevFrontEnd.props
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestDevFrontEnd.props
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\scopedcss\bundle\TestDevFrontEnd.styles.css
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.dll
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\refint\TestDevFrontEnd.dll
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.pdb
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\New folder (4)\TestDev Solution\TestDevFrontEnd\obj\Debug\net8.0\ref\TestDevFrontEnd.dll
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.staticwebassets.runtime.json
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.exe
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.deps.json
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.runtimeconfig.json
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.dll
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\bin\Debug\net8.0\TestDevFrontEnd.pdb
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.AssemblyInfo.cs
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.TestDevFrontEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.TestDevFrontEnd.props
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestDevFrontEnd.props
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestDevFrontEnd.props
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\scopedcss\bundle\TestDevFrontEnd.styles.css
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.dll
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\refint\TestDevFrontEnd.dll
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.pdb
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\TestDevFrontEnd.genruntimeconfig.cache
+C:\Users\Computer\Desktop\New folder (3)\TestDevFrontEnd\obj\Debug\net8.0\ref\TestDevFrontEnd.dll

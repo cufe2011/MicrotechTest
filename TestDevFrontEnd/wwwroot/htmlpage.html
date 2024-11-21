@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accounts Management</title>
+
+    <link href="https://cdn3.devexpress.com/jslib/24.1.7/css/dx.light.css" rel="stylesheet">
+    <link href="Styles/Styles.css" rel="stylesheet" />
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="https://cdn3.devexpress.com/jslib/24.1.7/js/dx.all.js"></script>
+
+    <script>
+        var clickTimer, lastRowCLickedId;
+
+        $(document).ready(function () {
+            $.ajax({
+                url: 'https://localhost:7091/api/Accounts/balances',
+                method: 'GET',
+                success: function (data) {
+                    $("#parentBalancesGrid").dxDataGrid({
+                        dataSource: data,
+                        columns: [
+                            { dataField: 'topLevelAccount', caption: 'Parent Account ID', alignment: "center" },
+                            { dataField: 'totalBalance', caption: 'Total Balance', alignment: "center" }
+                        ],
+                        showBorders: true,
+                        onRowClick: function (e)
+                        {
+                            var grid = $("#parentBalancesGrid").dxDataGrid('instance');
+                            var rows = grid.getSelectedRowsData();
+
+                            if (clickTimer && lastRowCLickedId === e.rowIndex)
+                            {
+                                clearTimeout(clickTimer);
+                                clickTimer = null;
+                                lastRowCLickedId = e.rowIndex;
+                                var rowData = e.data;
+                                var parentAccountID = rowData.topLevelAccount;
+
+                                $.ajax({
+                                    url: 'https://localhost:7091/api/Accounts/GetDetails/' + parentAccountID,
+                                    method: 'GET',
+                                    success: function (response) {
+                                        $('#accountDetails').empty();
+                                        response.forEach(function (path) {
+                                            $('#accountDetails').append('<p class="path">Account ' + path + '</p>');
+                                        });
+                                        $('#DetailsModal').show();
+                                    },
+                                    error: function (xhr, status, error) {
+                                        console.log('API Error:', error);
+                                        alert('An error occurred: ' + error);
+                                    }
+                                });
+
+                            } else {
+                                clickTimer = setTimeout(function () { }, 250);
+                            }
+
+                            lastRowCLickedId = e.rowIndex;
+                        },
+                        rowAlternationEnabled: true,
+                        paging: {
+                            pageSize: 10
+                        },
+                        filterRow: {
+                            visible: true
+                        },
+                        sorting: {
+                            mode: 'multiple'
+                        }
+                    });
+                },
+                error: function (xhr, status, error) {
+                    alert('An error occurred: ' + error);
+                }
+            });
+        });
+    </script>
+
+</head>
+<body>
+
+    <div class="container form-container">
+        <div class="form-header">
+            <h3>Accounts Summary</h3>
+        </div>
+
+        <div id="parentBalancesGrid"></div>
+
+    </div>
+
+    <div id="DetailsModal" class="modal">
+        <div class="modal-content" id="modalContent">
+            <span class="close" onclick="document.getElementById('DetailsModal').style.display = 'none';">&times;</span>
+            <br />
+            <h4>Account Details</h4>
+            <div id="accountDetails">
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
